@@ -25,8 +25,13 @@
 .timeline-card-info:before {
   border-color: var(--bs-info); }
 
+.timeline-card-prj:before {
+    border-color: var(--bs-purple); }
 .timeline-card-intr:before {
   border-color: var(--bs-pink); }
+
+  .timeline-card-res:before {
+    border-color: var(--bs-yellow); }
 
   .timeline-card-hobby:before {
     border-color: var(--bs-red); }
